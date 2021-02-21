@@ -1,0 +1,10 @@
+{
+    "theme" : {
+        "colors" : {
+            "home" : {
+                "bg" : "#8C9BE6",
+                "contrast" : "#031361"
+            }
+        }
+    }
+}
